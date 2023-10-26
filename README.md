@@ -1,4 +1,4 @@
-[Español](JoserraSASG.md)
+[Spanish](https://github.com/JoserraSASG/JoserraSASG/blob/main/README.md)
 
 # Hello! 👋 I'm Joserra.
 
